@@ -1,0 +1,4 @@
+.DS_Store
+git2/
+*.done
+*.lock
